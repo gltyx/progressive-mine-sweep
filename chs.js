@@ -259,7 +259,7 @@ var cnItems = {
     "Game Automation": "游戏自动化",
     "time a minute": "次一分钟",
     "times a minute": "次一分钟",
-    "": "",
+    "Reveals": "揭示",
     "": "",
     "": "",
     "": "",
